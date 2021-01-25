@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Douyu-ID", "Douyu-ID\Douyu-ID.csproj", "{DDC71E93-55E7-4F8C-B57F-9B461E7EB479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DouyuID-ConsoleApp", "DouyuID-ConsoleApp\DouyuID-ConsoleApp.csproj", "{4F83CCB6-7483-43B9-8364-C77FFFACEA33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC71E93-55E7-4F8C-B57F-9B461E7EB479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC71E93-55E7-4F8C-B57F-9B461E7EB479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC71E93-55E7-4F8C-B57F-9B461E7EB479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC71E93-55E7-4F8C-B57F-9B461E7EB479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F83CCB6-7483-43B9-8364-C77FFFACEA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F83CCB6-7483-43B9-8364-C77FFFACEA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F83CCB6-7483-43B9-8364-C77FFFACEA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F83CCB6-7483-43B9-8364-C77FFFACEA33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {053B255F-A180-4721-AE54-515BE5A2E2C3}
+	EndGlobalSection
+EndGlobal

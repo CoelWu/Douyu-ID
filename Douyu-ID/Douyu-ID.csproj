@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Douyu.ID</RootNamespace>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Coel Wu</Authors>
+    <Company>Coel Wu</Company>
+    <Copyright>Copyright (c) 2018-2021 Coel Wu.</Copyright>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Description>C# 斗鱼礼物贵族和身份解析器
+源代码: https://github.com/CoelWu/Douyu-ID
+Douyu gift, nobility and identity parser by C#
+Source Code: https://github.com/CoelWu/Douyu-ID</Description>
+    <PackageProjectUrl>https://github.com/CoelWu/Douyu-ID</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/CoelWu/Douyu-ID</RepositoryUrl>
+    <PackageIcon>Douyu_icon.png</PackageIcon>
+    <PackageTags>douyu, coelwu, gift, nobility, identity, parser</PackageTags>
+    <PackageId>CoelWu.Douyu.ID</PackageId>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Assets\Douyu_icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
