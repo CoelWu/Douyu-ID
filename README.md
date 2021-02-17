@@ -32,3 +32,5 @@ string roomIdentity = douyuID.ParseRoomIdentify(4);
 
 ## 鸣谢
 - [pop](https://github.com/popzoo/pop)
+- [douyu-danmu](https://github.com/lukaiqi/douyu-danmu)
+- [DouyuBarrageCollector](https://github.com/JackGeminiKu/DouyuBarrageCollector)
