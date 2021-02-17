@@ -18,7 +18,7 @@ Source Code: https://github.com/CoelWu/Douyu-ID</Description>
     <PackageIcon>Douyu_icon.png</PackageIcon>
     <PackageTags>douyu, coelwu, gift, nobility, identity, parser</PackageTags>
     <PackageId>CoelWu.Douyu.ID</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>

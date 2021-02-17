@@ -78,6 +78,10 @@ namespace Douyu.ID
                     return "小肚子";
                 case 365:
                     return "木瓜";
+                case 374:
+                    return "风暴要火";
+                case 375:
+                    return "中国队强无敌";
                 case 380:
                     return "好人卡";
                 case 391:
@@ -180,6 +184,10 @@ namespace Douyu.ID
                     return "天使之羽";
                 case 499:
                     return "皇冠";
+                case 519:
+                    return "呵呵";
+                case 520:
+                    return "稳";
                 case 523:
                     return "幸运币";
                 case 528:
@@ -194,6 +202,8 @@ namespace Douyu.ID
                     return "爱心";
                 case 536:
                     return "笔记本";
+                case 545:
+                    return "觀心覺悟火箭";
                 case 550:
                     return "能量棒";
                 case 551:
@@ -214,12 +224,18 @@ namespace Douyu.ID
                     return "伊利丹的刀";
                 case 574:
                     return "电影票兑换券";
+                case 600:
+                    return "手游666";
                 case 602:
                     return "牛人";
                 case 605:
                     return "骚飞";
                 case 606:
                     return "导师为你转身";
+                case 607:
+                    return "清香白莲火箭";
+                case 622:
+                    return "熊大炫酷飞机";
                 case 629:
                     return "金锄头";
                 case 630:
@@ -230,14 +246,24 @@ namespace Douyu.ID
                     return "猫猫";
                 case 633:
                     return "祖传大碗";
+                case 640:
+                    return "超管火箭";
                 case 641:
                     return "转";
                 case 658:
                     return "???";
                 case 659:
                     return "GG";
+                case 660:
+                    return "H1Z1";
                 case 668:
                     return "演唱会门票";
+                case 672:
+                    return "鱼购飞天神器";
+                case 673:
+                    return "鱼购冲天神器";
+                case 674:
+                    return "鱼购外星神器";
                 case 680:
                     return "背锅";
                 case 681:
@@ -250,6 +276,10 @@ namespace Douyu.ID
                     return "猫耳朵";
                 case 688:
                     return "萌兔";
+                case 689:
+                    return "御甲飞机";
+                case 690:
+                    return "王牌火箭";
                 case 702:
                     return "续命";
                 case 703:
@@ -260,6 +290,12 @@ namespace Douyu.ID
                     return "么么哒";
                 case 709:
                     return "么么哒";
+                case 712:
+                    return "棒棒哒";
+                case 713:
+                    return "辣眼睛";
+                case 714:
+                    return "怂";
                 case 735:
                     return "百合";
                 case 739:
@@ -378,6 +414,8 @@ namespace Douyu.ID
                     return "干杯！";
                 case 944:
                     return "红鲤鱼";
+                case 947:
+                    return "狼抓手";
                 case 949:
                     return "爆网";
                 case 954:
@@ -478,6 +516,8 @@ namespace Douyu.ID
                     return "A脖儿";
                 case 1070:
                     return "婴儿车";
+                case 1075:
+                    return "这都不叫事";
                 case 1077:
                     return "木易醒一醒";
                 case 1078:
@@ -500,6 +540,14 @@ namespace Douyu.ID
                     return "氧气瓶";
                 case 1091:
                     return "举高高";
+                case 1093:
+                    return "前进100";
+                case 1094:
+                    return "前进200";
+                case 1095:
+                    return "前进300";
+                case 1096:
+                    return "前进500";
                 case 1101:
                     return "灵芝";
                 case 1102:
@@ -512,8 +560,12 @@ namespace Douyu.ID
                     return "多力多滋";
                 case 1113:
                     return "吃鸡";
+                case 1114:
+                    return "呆萌喵";
                 case 1115:
                     return "空投补给箱";
+                case 1116:
+                    return "般若波若蜜";
                 case 1117:
                     return "没排面";
                 case 1118:
@@ -524,8 +576,16 @@ namespace Douyu.ID
                     return "牙龈少女";
                 case 1125:
                     return "拳套";
+                case 1126:
+                    return "恭贺新年";
                 case 1127:
                     return "瘦";
+                case 1130:
+                    return "五毛钱";
+                case 1131:
+                    return "一发";
+                case 1132:
+                    return "三周年快乐";
                 case 1133:
                     return "饿";
                 case 1134:
@@ -536,10 +596,16 @@ namespace Douyu.ID
                     return "存档仙";
                 case 1137:
                     return "壩";
+                case 1138:
+                    return "飞龙在天";
                 case 1139:
                     return "王者主持人";
+                case 1140:
+                    return "超级大鹅";
                 case 1141:
                     return "狗头鱼";
+                case 1142:
+                    return "鱼小弟";
                 case 1143:
                     return "医疗箱";
                 case 1144:
@@ -550,6 +616,8 @@ namespace Douyu.ID
                     return "女枪王";
                 case 1147:
                     return "一发入魂";
+                case 1149:
+                    return "基本操作";
                 case 1150:
                     return "BUFF";
                 case 1151:
@@ -558,6 +626,8 @@ namespace Douyu.ID
                     return "能量包裹";
                 case 1156:
                     return "V9play";
+                case 1157:
+                    return "冲动是魔鬼";
                 case 1158:
                     return "小鱼星";
                 case 1159:
@@ -568,6 +638,8 @@ namespace Douyu.ID
                     return "西瓜汁";
                 case 1165:
                     return "喷他Q";
+                case 1166:
+                    return "落地成盒";
                 case 1167:
                     return "i7";
                 case 1168:
@@ -586,6 +658,8 @@ namespace Douyu.ID
                     return "魔法棒";
                 case 1175:
                     return "游弋在你身边";
+                case 1176:
+                    return "冰河世纪";
                 case 1178:
                     return "康师傅冰红茶";
                 case 1179:
@@ -610,8 +684,20 @@ namespace Douyu.ID
                     return "隔壁老王";
                 case 1190:
                     return "一拳超狸";
+                case 1191:
+                    return "盛典星光";
+                case 1192:
+                    return "仙鱼散花";
+                case 1193:
+                    return "飞鱼破浪";
+                case 1194:
+                    return "鱼跃龙门";
+                case 1195:
+                    return "鱼翔九天";
                 case 1196:
                     return "TD卡";
+                case 1197:
+                    return "温柔宝宝";
                 case 1198:
                     return "百威鱼丸";
                 case 1199:
@@ -626,8 +712,16 @@ namespace Douyu.ID
                     return "巡礼飞机";
                 case 1207:
                     return "荣耀超级火箭";
+                case 1208:
+                    return "安娜爱总裁 ";
                 case 1209:
                     return "中国队加油";
+                case 1210:
+                    return "觀心覺悟";
+                case 1211:
+                    return "格子火箭";
+                case 1214:
+                    return "哈士奇";
                 case 1220:
                     return "水晶冠";
                 case 1221:
@@ -636,26 +730,66 @@ namespace Douyu.ID
                     return "双马尾";
                 case 1223:
                     return "猴王";
+                case 1225:
+                    return "一顿操作";
                 case 1226:
                     return "办卡";
+                case 1228:
+                    return "金色明灯";
+                case 1229:
+                    return "银色明灯";
+                case 1230:
+                    return "幺幺火箭";
+                case 1231:
+                    return "抬一手";
+                case 1232:
+                    return "打Call";
                 case 1233:
                     return "喷泉";
+                case 1234:
+                    return "为爱击掌";
+                case 1235:
+                    return "双十一火箭";
+                case 1236:
+                    return "967up";
+                case 1237:
+                    return "赞";
+                case 1238:
+                    return "背锅";
+                case 1239:
+                    return "红蓝buff";
+                case 1240:
+                    return "槟榔火箭";
                 case 1241:
                     return "RNG利器";
                 case 1242:
                     return "金腰带火箭";
                 case 1243:
                     return "擂旗飞机";
+                case 1244:
+                    return "超级幸运";
                 case 1245:
                     return "击鼓踢馆";
+                case 1246:
+                    return "秋";
+                case 1247:
+                    return "魔幻之箭";
+                case 1248:
+                    return "1.8亿老婆";
                 case 1249:
                     return "双十一火箭";
+                case 1250:
+                    return "超级热游蒸汽";
+                case 1254:
+                    return "丘比特之箭";
                 case 1255:
                     return "聚力丸";
                 case 1256:
                     return "典赞";
                 case 1257:
                     return "燃气鸡";
+                case 1258:
+                    return "超级大头豆糕";
                 case 1259:
                     return "年度尊享黑卡";
                 case 1260:
@@ -676,6 +810,10 @@ namespace Douyu.ID
                     return "暖冬烟花";
                 case 1271:
                     return "告白热气球";
+                case 1272:
+                    return "抽奖辩非欧";
+                case 1273:
+                    return "骚骚骚骚";
                 case 1282:
                     return "手办卡";
                 case 1283:
@@ -684,6 +822,22 @@ namespace Douyu.ID
                     return "助力币-金";
                 case 1285:
                     return "头条火箭";
+                case 1287:
+                    return "剑舞红颜笑";
+                case 1288:
+                    return "星光财团";
+                case 1289:
+                    return "阿姆斯特朗";
+                case 1290:
+                    return "菁伦超级火箭";
+                case 1291:
+                    return "枸杞槟榔";
+                case 1292:
+                    return "莹yin69";
+                case 1293:
+                    return "一支穿云剑";
+                case 1294:
+                    return "老干爹辣酱";
                 case 1295:
                     return "100鱼丸";
                 case 1296:
@@ -692,6 +846,12 @@ namespace Douyu.ID
                     return "飞机";
                 case 1300:
                     return "火箭";
+                case 1301:
+                    return "泰兰德的果子";
+                case 1302:
+                    return "伊利丹的刀";
+                case 1304:
+                    return "十八专用超火";
                 case 1305:
                     return "爱心包包";
                 case 1306:
@@ -728,6 +888,18 @@ namespace Douyu.ID
                     return "圣诞帽";
                 case 1325:
                     return "圣诞火箭";
+                case 1327:
+                    return "平安果";
+                case 1328:
+                    return "十三少";
+                case 1329:
+                    return "我养你";
+                case 1330:
+                    return "思念星";
+                case 1331:
+                    return "瑞雪丰年";
+                case 1332:
+                    return "鱼福降临";
                 case 1333:
                     return "100鱼丸";
                 case 1334:
@@ -742,10 +914,28 @@ namespace Douyu.ID
                     return "盛典巅峰火箭";
                 case 1339:
                     return "耀世超级火箭";
+                case 1344:
+                    return "一口毒奶";
+                case 1345:
+                    return "一杯毒奶";
+                case 1346:
+                    return "一瓶毒奶";
+                case 1347:
+                    return "一箱毒奶";
                 case 1349:
                     return "冯提莫棒棒哒";
+                case 1350:
+                    return "盛典巅峰火箭";
+                case 1351:
+                    return "大胸超级火箭";
+                case 1352:
+                    return "平胸超级火箭";
+                case 1353:
+                    return "爱你一万年";
                 case 1354:
                     return "捷豹XEL";
+                case 1355:
+                    return "说谎";
                 case 1356:
                     return "精神";
                 case 1357:
@@ -758,12 +948,34 @@ namespace Douyu.ID
                     return "RUA";
                 case 1361:
                     return "嗨起来";
+                case 1362:
+                    return "道皇火箭";
+                case 1363:
+                    return "豹豹豹";
+                case 1364:
+                    return "大融婷儿";
+                case 1365:
+                    return "绿鞋找妈妈";
                 case 1366:
                     return "第一嗝嗝";
+                case 1367:
+                    return "一口毒奶";
                 case 1368:
                     return "驴酱";
+                case 1369:
+                    return "灌篮高手";
+                case 1370:
+                    return "兽兽号超火";
+                case 1371:
+                    return "幸运火箭";
                 case 1372:
                     return "情书";
+                case 1373:
+                    return "飞机";
+                case 1374:
+                    return "火箭";
+                case 1375:
+                    return "超级火箭";
                 case 1376:
                     return "一加火箭";
                 case 1377:
@@ -772,8 +984,12 @@ namespace Douyu.ID
                     return "盛典巅峰火箭";
                 case 1379:
                     return "耀世超级火箭";
+                case 1380:
+                    return "微笑";
                 case 1381:
                     return "鱼饵";
+                case 1382:
+                    return "KSG";
                 case 1383:
                     return "中兴手机";
                 case 1384:
@@ -782,14 +998,24 @@ namespace Douyu.ID
                     return "僵尸围城";
                 case 1387:
                     return "冷生赢家超火";
+                case 1388:
+                    return "火箭";
                 case 1390:
                     return "中二病";
                 case 1391:
                     return "交菠电费";
+                case 1392:
+                    return "弥大远洋号";
                 case 1393:
                     return "小野猪";
+                case 1394:
+                    return "伴风眠";
+                case 1395:
+                    return "IRONM";
                 case 1396:
                     return "橙人";
+                case 1397:
+                    return "小温心";
                 case 1398:
                     return "告白气球";
                 case 1399:
@@ -826,14 +1052,48 @@ namespace Douyu.ID
                     return "头条元宵";
                 case 1420:
                     return "头条火箭";
+                case 1421:
+                    return "烟花易冷";
                 case 1422:
                     return "三号模卡";
                 case 1423:
                     return "福袋";
+                case 1424:
+                    return "南豆豆";
+                case 1425:
+                    return "裤裆里家族";
+                case 1426:
+                    return "办卡";
+                case 1427:
+                    return "赞";
+                case 1428:
+                    return "弱鸡";
+                case 1429:
+                    return "药丸";
+                case 1430:
+                    return "药丸";
+                case 1431:
+                    return "有排面";
+                case 1432:
+                    return "没排面";
+                case 1433:
+                    return "医疗箱";
+                case 1434:
+                    return "吃鸡";
                 case 1435:
                     return "皇冠";
+                case 1437:
+                    return "玫瑰花";
+                case 1438:
+                    return "小香蕉";
+                case 1439:
+                    return "猫耳";
+                case 1440:
+                    return "女仆装";
                 case 1441:
                     return "狗东西";
+                case 1444:
+                    return "散出一片天";
                 case 1445:
                     return "炸丸子";
                 case 1446:
@@ -852,12 +1112,30 @@ namespace Douyu.ID
                     return "天美空投箱";
                 case 1453:
                     return "天美降落伞";
+                case 1454:
+                    return "飞鸡送福";
+                case 1455:
+                    return "福瑞火箭";
+                case 1456:
+                    return "阳春贺岁超火";
+                case 1457:
+                    return "香瓣";
+                case 1458:
+                    return "旺旺旺";
+                case 1459:
+                    return "二珂的旅行";
                 case 1460:
                     return "陈氏理财金卡";
+                case 1461:
+                    return "莫莫哒";
                 case 1462:
                     return "胖";
                 case 1463:
                     return "平底锅";
+                case 1464:
+                    return "一起看日出";
+                case 1465:
+                    return "魔鬼中的天使";
                 case 1466:
                     return "逗你玩儿";
                 case 1468:
@@ -876,18 +1154,30 @@ namespace Douyu.ID
                     return "阿尔法包";
                 case 1475:
                     return "遇白不散";
+                case 1477:
+                    return "办卡";
                 case 1478:
                     return "eStar";
+                case 1479:
+                    return "素右右补给包";
                 case 1480:
                     return "拉我";
                 case 1481:
                     return "奶瓶";
                 case 1483:
                     return "卡祖笛";
+                case 1484:
+                    return "能量饮料";
+                case 1485:
+                    return "肾上腺素";
+                case 1486:
+                    return "平底锅";
                 case 1487:
                     return "祖传背心";
                 case 1488:
                     return "MVP";
+                case 1489:
+                    return "办卡";
                 case 1490:
                     return "龙马精神";
                 case 1491:
@@ -918,8 +1208,16 @@ namespace Douyu.ID
                     return "争锋火箭";
                 case 1506:
                     return "狂欢集结超火";
+                case 1507:
+                    return "至尊水果导弹";
                 case 1508:
                     return "全针令";
+                case 1509:
+                    return "神龙见首";
+                case 1510:
+                    return "争锋火箭";
+                case 1511:
+                    return "狂欢集结超火";
                 case 1512:
                     return "番茄";
                 case 1513:
@@ -934,6 +1232,8 @@ namespace Douyu.ID
                     return "长安马自达";
                 case 1518:
                     return "东南DX7 ";
+                case 1519:
+                    return "应援飞机";
                 case 1521:
                     return "鹌鹑蛋";
                 case 1522:
@@ -952,6 +1252,10 @@ namespace Douyu.ID
                     return "樱花粉的浪漫";
                 case 1529:
                     return "胖索的小锤锤";
+                case 1530:
+                    return "寂寞灵魂";
+                case 1531:
+                    return "女朋友";
                 case 1532:
                     return "父爱如山";
                 case 1533:
@@ -960,10 +1264,24 @@ namespace Douyu.ID
                     return "LPL加油！";
                 case 1535:
                     return "300斤奈值";
+                case 1537:
+                    return "心里只有你";
                 case 1539:
                     return "幸运777";
                 case 1540:
                     return "超硬挺喷雾";
+                case 1541:
+                    return "一根星光棒";
+                case 1542:
+                    return "一束星光棒";
+                case 1543:
+                    return "一捆星光棒";
+                case 1544:
+                    return "一堆星光棒";
+                case 1545:
+                    return "礼物buff";
+                case 1546:
+                    return "鱼丸buff";
                 case 1549:
                     return "呆瓜";
                 case 1550:
@@ -972,6 +1290,10 @@ namespace Douyu.ID
                     return "吃我一剑";
                 case 1552:
                     return "奶有毒";
+                case 1553:
+                    return "筑梦之鲲";
+                case 1554:
+                    return "星空火箭";
                 case 1555:
                     return "萌混过关";
                 case 1556:
@@ -1004,12 +1326,32 @@ namespace Douyu.ID
                     return "打call";
                 case 1571:
                     return "超大丸星";
+                case 1572:
+                    return "EJ小脑斧";
+                case 1573:
+                    return "688专属";
+                case 1574:
+                    return "银子么么哒";
+                case 1575:
+                    return "天南地北";
+                case 1576:
+                    return "冰心葑";
+                case 1577:
+                    return "月光飞船";
+                case 1578:
+                    return "天使纪元";
                 case 1579:
                     return "MVP";
                 case 1580:
                     return "巅峰王者";
+                case 1581:
+                    return "28号技师";
+                case 1582:
+                    return "小怪兽";
                 case 1583:
                     return "加油江小花";
+                case 1585:
+                    return "小西瓜";
                 case 1586:
                     return "8师傅阔落卡";
                 case 1587:
@@ -1024,12 +1366,30 @@ namespace Douyu.ID
                     return "么么哒";
                 case 1592:
                     return "告白气球";
+                case 1593:
+                    return "小温心";
                 case 1594:
                     return "张大龙";
+                case 1596:
+                    return "安慕希真好喝";
                 case 1597:
                     return "嗝~";
+                case 1598:
+                    return "鸡皇驾到";
+                case 1599:
+                    return "小心大融";
+                case 1600:
+                    return "呆妹儿大大大";
                 case 1601:
                     return "车票";
+                case 1602:
+                    return "明日之星";
+                case 1603:
+                    return "对A皇后号";
+                case 1604:
+                    return "恋爱ING";
+                case 1605:
+                    return "心悦猫咪";
                 case 1606:
                     return "对A";
                 case 1607:
@@ -1048,6 +1408,14 @@ namespace Douyu.ID
                     return "甜蜜火箭";
                 case 1614:
                     return "挚爱超火";
+                case 1615:
+                    return "挚爱告白";
+                case 1616:
+                    return "甜蜜情书";
+                case 1617:
+                    return "浪漫密语";
+                case 1620:
+                    return "天圆地方";
                 case 1621:
                     return "告白火箭";
                 case 1622:
@@ -1068,6 +1436,14 @@ namespace Douyu.ID
                     return "沙滩帽";
                 case 1633:
                     return "牌面火箭";
+                case 1634:
+                    return "一期一会";
+                case 1635:
+                    return "梦幻之羽";
+                case 1636:
+                    return "爱是一道光";
+                case 1637:
+                    return "金宝专属超火";
                 case 1638:
                     return "17";
                 case 1639:
@@ -1102,6 +1478,8 @@ namespace Douyu.ID
                     return "YW";
                 case 1654:
                     return "大肉包";
+                case 1655:
+                    return "我不好色";
                 case 1656:
                     return "影魔王";
                 case 1657:
@@ -1112,12 +1490,16 @@ namespace Douyu.ID
                     return "心悦钻石";
                 case 1660:
                     return "心悦猫咪";
+                case 1661:
+                    return "Aslank";
                 case 1662:
                     return "国民姑姑 ";
                 case 1664:
                     return "粽子";
                 case 1665:
                     return "龙舟火箭";
+                case 1666:
+                    return "京东优惠券";
                 case 1667:
                     return "测试飞机";
                 case 1668:
@@ -1140,6 +1522,8 @@ namespace Douyu.ID
                     return "火箭";
                 case 1678:
                     return "火箭";
+                case 1679:
+                    return "c字超火";
                 case 1680:
                     return "飞机";
                 case 1681:
@@ -1150,6 +1534,8 @@ namespace Douyu.ID
                     return "鱼丸火鱼丸";
                 case 1684:
                     return "鱼丸飞鱼丸";
+                case 1685:
+                    return "银河特快";
                 case 1687:
                     return "数羊";
                 case 1688:
@@ -1174,6 +1560,14 @@ namespace Douyu.ID
                     return "RNG.M";
                 case 1698:
                     return "争气鸡";
+                case 1699:
+                    return "一周年快乐";
+                case 1700:
+                    return "金榜题名";
+                case 1701:
+                    return "第二杯半价";
+                case 1702:
+                    return "枫哥很喜欢";
                 case 1703:
                     return "BA黑凤梨";
                 case 1704:
@@ -1190,6 +1584,10 @@ namespace Douyu.ID
                     return "JC";
                 case 1714:
                     return "护叔宝";
+                case 1715:
+                    return "凌仕净油飞机";
+                case 1716:
+                    return "抽奖辩非欧";
                 case 1717:
                     return "凌仕净油飞机";
                 case 1718:
@@ -1200,6 +1598,8 @@ namespace Douyu.ID
                     return "花";
                 case 1721:
                     return "球迷卡";
+                case 1722:
+                    return "07专属火箭";
                 case 1723:
                     return "FM233";
                 case 1724:
@@ -1228,6 +1628,10 @@ namespace Douyu.ID
                     return "绝杀火箭";
                 case 1736:
                     return "铁杆粉丝卡";
+                case 1737:
+                    return "旗开得胜";
+                case 1738:
+                    return "旗开得胜";
                 case 1739:
                     return "大力丸";
                 case 1740:
@@ -1236,14 +1640,40 @@ namespace Douyu.ID
                     return "豪门飞机";
                 case 1742:
                     return "大力神超火";
+                case 1743:
+                    return "冷小兔一周年";
+                case 1744:
+                    return "俗";
                 case 1747:
                     return "次元之门";
+                case 1748:
+                    return "今生护你周全";
+                case 1749:
+                    return "梦回TI2";
+                case 1750:
+                    return "皇家同花顺";
+                case 1751:
+                    return "幻想乡快旅";
+                case 1752:
+                    return "草莓vv呀";
+                case 1753:
+                    return "骚白喵喵喵";
+                case 1754:
+                    return "国民姑姑";
+                case 1755:
+                    return "意大利炮";
+                case 1756:
+                    return "六元带你上天";
+                case 1757:
+                    return "办卡";
                 case 1758:
                     return "逆水寒";
                 case 1759:
                     return "祖传毛衣";
                 case 1760:
                     return "发财麦";
+                case 1761:
+                    return "生日烟花";
                 case 1762:
                     return "求戳戳卡";
                 case 1763:
@@ -1256,6 +1686,8 @@ namespace Douyu.ID
                     return "红白机";
                 case 1772:
                     return "喜爱福";
+                case 1773:
+                    return "小浛最漂亮";
                 case 1774:
                     return "痛苦面具";
                 case 1775:
@@ -1286,16 +1718,40 @@ namespace Douyu.ID
                     return "半人永";
                 case 1790:
                     return "泰亚甜心";
+                case 1791:
+                    return "Rola专属";
+                case 1792:
+                    return "鲸鱼欧尼";
                 case 1793:
                     return "元七七";
+                case 1795:
+                    return "一起哈啤";
+                case 1796:
+                    return "观花赏月";
+                case 1797:
+                    return "我们生日快乐";
+                case 1798:
+                    return "Rola加油";
                 case 1799:
                     return "生财猪";
+                case 1800:
+                    return "69式饺子";
+                case 1804:
+                    return "帝国舰队";
+                case 1805:
+                    return "可爱羡羡火箭";
+                case 1806:
+                    return "粉丝荧光棒";
                 case 1807:
                     return "可爱羡羡火箭";
                 case 1808:
                     return "赞";
                 case 1809:
                     return "晋级卡";
+                case 1813:
+                    return "石西叽";
+                case 1814:
+                    return "一箭丹心";
                 case 1815:
                     return "珍珠鱼丸";
                 case 1816:
@@ -1310,6 +1766,12 @@ namespace Douyu.ID
                     return "征服者火箭";
                 case 1822:
                     return "雄霸天下超火";
+                case 1823:
+                    return "赞";
+                case 1824:
+                    return "弱鸡";
+                case 1828:
+                    return "帝国舰队";
                 case 1830:
                     return "麦斯威尔飞机";
                 case 1831:
@@ -1326,6 +1788,8 @@ namespace Douyu.ID
                     return "黑卡";
                 case 1837:
                     return "冰阔落";
+                case 1838:
+                    return "粉丝荧光棒";
                 case 1839:
                     return "数鹅";
                 case 1840:
@@ -1336,6 +1800,8 @@ namespace Douyu.ID
                     return "奶嘴";
                 case 1843:
                     return "F4";
+                case 1844:
+                    return "英嘤英";
                 case 1845:
                     return "办卡";
                 case 1846:
@@ -1344,8 +1810,22 @@ namespace Douyu.ID
                     return "打call";
                 case 1848:
                     return "赞";
+                case 1850:
+                    return "一只狗";
                 case 1851:
                     return "真皮沙发";
+                case 1852:
+                    return "穷逼火箭";
+                case 1853:
+                    return "凌仕净油飞机";
+                case 1855:
+                    return "星星";
+                case 1856:
+                    return "0.2测";
+                case 1857:
+                    return "星空棒棒糖";
+                case 1858:
+                    return "太空旅行卡";
                 case 1859:
                     return "小飞碟";
                 case 1860:
@@ -1364,6 +1844,12 @@ namespace Douyu.ID
                     return "七夕火箭";
                 case 1867:
                     return "七夕超火";
+                case 1868:
+                    return "烟花礼赞";
+                case 1869:
+                    return "烟花雨";
+                case 1870:
+                    return "烟花束";
                 case 1875:
                     return "声微饭否？";
                 case 1876:
@@ -1382,8 +1868,20 @@ namespace Douyu.ID
                     return "七夕超火";
                 case 1883:
                     return "金屋藏娇";
+                case 1884:
+                    return "MIKU西";
                 case 1885:
                     return "天南地北";
+                case 1886:
+                    return "苏恩小猫咪";
+                case 1888:
+                    return "超级火箭";
+                case 1889:
+                    return "火箭";
+                case 1890:
+                    return "宇宙飞船";
+                case 1891:
+                    return "亿大佬超火";
                 case 1892:
                     return "Buff卡";
                 case 1893:
@@ -1394,6 +1892,8 @@ namespace Douyu.ID
                     return "京东815";
                 case 1896:
                     return "城堡";
+                case 1897:
+                    return "大马猴火箭";
                 case 1898:
                     return "鼓掌撒花";
                 case 1899:
@@ -1422,6 +1922,12 @@ namespace Douyu.ID
                     return "舅爱卤蛋";
                 case 1911:
                     return "教父";
+                case 1912:
+                    return "岁月静好";
+                case 1913:
+                    return "吃鸡";
+                case 1914:
+                    return "粉丝荧光棒";
                 case 1915:
                     return "依依";
                 case 1916:
@@ -1436,6 +1942,12 @@ namespace Douyu.ID
                     return "天命圈";
                 case 1921:
                     return "天谴圈";
+                case 1923:
+                    return "伊C";
+                case 1924:
+                    return "装逼王超火";
+                case 1925:
+                    return "超级达克宁";
                 case 1926:
                     return "坦克空投";
                 case 1927:
@@ -1444,14 +1956,24 @@ namespace Douyu.ID
                     return "鲶少有为";
                 case 1929:
                     return "雷婷万钧";
+                case 1930:
+                    return "林七周年火箭";
+                case 1931:
+                    return "钱胖胖来辣";
                 case 1932:
                     return "安排一下";
+                case 1933:
+                    return "一路向南";
+                case 1934:
+                    return "OS白鹄";
                 case 1935:
                     return "东部upup";
                 case 1936:
                     return "西部upup";
                 case 1937:
                     return "KPL加油！";
+                case 1938:
+                    return "女神驾到";
                 case 1939:
                     return "RW";
                 case 1940:
@@ -1462,6 +1984,14 @@ namespace Douyu.ID
                     return "WE";
                 case 1943:
                     return "YTG";
+                case 1944:
+                    return "东部upup";
+                case 1945:
+                    return "西部upup";
+                case 1946:
+                    return "KPL加油！";
+                case 1947:
+                    return "C位出道";
                 case 1948:
                     return "特供鱼丸";
                 case 1949:
@@ -1482,8 +2012,20 @@ namespace Douyu.ID
                     return "芭蕉心";
                 case 1957:
                     return "同舟共济";
+                case 1959:
+                    return "苏菲弹力贴身";
                 case 1960:
                     return "荒古宝典";
+                case 1961:
+                    return "人间大炮";
+                case 1962:
+                    return "天生是王者";
+                case 1965:
+                    return "花洒";
+                case 1966:
+                    return "水桶";
+                case 1967:
+                    return "灭火器";
                 case 1969:
                     return "777";
                 case 1970:
@@ -1498,14 +2040,40 @@ namespace Douyu.ID
                     return "盛典飞机";
                 case 1975:
                     return "典赞";
+                case 1976:
+                    return "音乐火箭";
+                case 1977:
+                    return "我的林可爱";
+                case 1978:
+                    return "招行联名卡";
+                case 1979:
+                    return "鲨鱼公仔";
+                case 1980:
+                    return "鲨鱼娘";
+                case 1981:
+                    return "呆头鹅专属";
+                case 1982:
+                    return "同舟共济";
                 case 1983:
                     return "典赞";
+                case 1984:
+                    return "米宝超火";
+                case 1985:
+                    return "抽象火箭";
+                case 1986:
+                    return "苏菲最美";
+                case 1987:
+                    return "我佳";
                 case 1988:
                     return "威海船票";
                 case 1989:
                     return "人人贷助力卡";
                 case 1990:
                     return "PickMe";
+                case 1991:
+                    return "摩卡的冰淇淋";
+                case 1992:
+                    return "超级巡航导弹";
                 case 1993:
                     return "童可可";
                 case 1994:
@@ -1530,10 +2098,14 @@ namespace Douyu.ID
                     return "挑战书";
                 case 2019:
                     return "猪头雷";
+                case 2021:
+                    return "唯爱瑾宝";
                 case 2022:
                     return "安排一下";
                 case 2025:
                     return "黑豹";
+                case 2026:
+                    return "套你猴子";
                 case 2027:
                     return "携程游游助力";
                 case 2028:
@@ -1542,10 +2114,16 @@ namespace Douyu.ID
                     return "牌面飞机";
                 case 2030:
                     return "荣耀女神火箭";
+                case 2031:
+                    return "球王战衣";
                 case 2032:
                     return "球王战衣";
                 case 2033:
                     return "怂旺加倍卡";
+                case 2034:
+                    return "FM233";
+                case 2035:
+                    return "天降惩罚";
                 case 2036:
                     return "ATZ";
                 case 2037:
@@ -1562,6 +2140,8 @@ namespace Douyu.ID
                     return "ESC";
                 case 2043:
                     return "SLT";
+                case 2044:
+                    return "盛典星光";
                 case 2045:
                     return "CF啸天";
                 case 2046:
@@ -1582,8 +2162,18 @@ namespace Douyu.ID
                     return "WPL狼人杀";
                 case 2054:
                     return "WPL应援棒";
+                case 2055:
+                    return "小了白了兔";
                 case 2056:
                     return "京东双11";
+                case 2057:
+                    return "鱼吧带哥";
+                case 2058:
+                    return "陀陀阿波罗";
+                case 2059:
+                    return "告白气球";
+                case 2060:
+                    return "半人超级火箭";
                 case 2061:
                     return "口味王提神卡";
                 case 2062:
@@ -1592,6 +2182,8 @@ namespace Douyu.ID
                     return "王者出击";
                 case 2064:
                     return "火箭";
+                case 2065:
+                    return "西瓜蛋糕";
                 case 2066:
                     return "冲鸭！";
                 case 2067:
@@ -1608,10 +2200,16 @@ namespace Douyu.ID
                     return "冷酱的啵啵";
                 case 2073:
                     return "房租";
+                case 2074:
+                    return "七喜啦你";
                 case 2075:
                     return "出金许愿卡";
                 case 2076:
                     return "金牌解说伟伟";
+                case 2077:
+                    return "应援棒";
+                case 2079:
+                    return "车队通行证";
                 case 2080:
                     return "打call ";
                 case 2081:
@@ -1626,10 +2224,14 @@ namespace Douyu.ID
                     return "小黑鱼鱼翅";
                 case 2087:
                     return "夏夏火箭";
+                case 2088:
+                    return "巅峰战队超火";
                 case 2090:
                     return "起飞";
                 case 2091:
                     return "火线徽章";
+                case 2092:
+                    return "無極超火";
                 case 2093:
                     return "盛典火箭";
                 case 2094:
@@ -1640,8 +2242,12 @@ namespace Douyu.ID
                     return "幸运钥匙";
                 case 2097:
                     return "幸运戒指";
+                case 2099:
+                    return "日月和光";
                 case 2100:
                     return "CFS冠军杯";
+                case 2101:
+                    return "鱼跃龙门";
                 case 2102:
                     return "记牌器";
                 case 2103:
@@ -1654,10 +2260,14 @@ namespace Douyu.ID
                     return "警徽";
                 case 2108:
                     return "金水";
+                case 2109:
+                    return "摩卡卡冲鸭";
                 case 2110:
                     return "RNG利器";
                 case 2111:
                     return "斗鱼666号";
+                case 2112:
+                    return "盛世白莲";
                 case 2113:
                     return "超级火箭";
                 case 2114:
@@ -1674,6 +2284,8 @@ namespace Douyu.ID
                     return "肚子饿";
                 case 2120:
                     return "77";
+                case 2121:
+                    return "我还没认真呢";
                 case 2122:
                     return "盛典星耀超火";
                 case 2123:
@@ -1682,12 +2294,92 @@ namespace Douyu.ID
                     return "盛典火箭";
                 case 2125:
                     return "盛典飞机";
+                case 2127:
+                    return "沙雕鲲";
+                case 2128:
+                    return "四合院";
                 case 2129:
                     return "彡彡九火箭";
                 case 2130:
                     return "上车吧好声音";
                 case 2132:
                     return "冲鸭";
+                case 2133:
+                    return "萳溪儿我爱你";
+                case 2134:
+                    return "黄金剃刀";
+                case 2135:
+                    return "手里剑";
+                case 2136:
+                    return "蝙蝠超火";
+                case 2137:
+                    return "鸽帆火箭";
+                case 2138:
+                    return "与狼共舞";
+                case 2140:
+                    return "超大丸星";
+                case 2141:
+                    return "小幸运";
+                case 2142:
+                    return "鸿运当头";
+                case 2144:
+                    return "大吉大利";
+                case 2145:
+                    return "好运连连";
+                case 2146:
+                    return "星星";
+                case 2147:
+                    return "星星";
+                case 2148:
+                    return "北宁宝宝";
+                case 2149:
+                    return "口味王提神";
+                case 2150:
+                    return "U赢电竞";
+                case 2151:
+                    return "星空棒棒糖";
+                case 2152:
+                    return "摩卡卡喵喵喵";
+                case 2153:
+                    return "宝箱";
+                case 2155:
+                    return "噜圆玉润";
+                case 2156:
+                    return "爸爸永相随";
+                case 2157:
+                    return "慧慧专属超火";
+                case 2158:
+                    return "胡嘉一超可爱";
+                case 2159:
+                    return "皮卡丘";
+                case 2160:
+                    return "与狼共舞嗷嗷";
+                case 2161:
+                    return "VIP荧光棒";
+                case 2162:
+                    return "学霞的超火";
+                case 2163:
+                    return "踏碎凌霄";
+                case 2164:
+                    return "丘比特之箭";
+                case 2165:
+                    return "5毫升的爱";
+                case 2166:
+                    return "白菜mm号";
+                case 2167:
+                    return "冲吧女神飞机";
+                case 2168:
+                    return "冲吧女神火箭";
+                case 2169:
+                    return "三拜九叩";
+                case 2170:
+                    return "神秘礼物";
+                case 2171:
+                    return "小心正直博";
+                case 2172:
+                    return "雨露均沾超火";
+                case 2173:
+                    return "余生有你真好";
                 case 20000:
                     return "100鱼丸";
                 case 20001:
@@ -2402,10 +3094,14 @@ namespace Douyu.ID
                     return "艺笙的小翅膀";
                 case 20419:
                     return "小玫救";
+                case 20422:
+                    return "粉丝荧光棒";
                 case 20424:
                     return "嘤嘤嘤";
                 case 20425:
                     return "数羊";
+                case 20426:
+                    return "不网恋超火";
                 case 20427:
                     return "FM233";
                 case 20428:
@@ -2418,8 +3114,16 @@ namespace Douyu.ID
                     return "小素鹅降智卡";
                 case 20433:
                     return "京东带电团战";
+                case 20434:
+                    return "抢位道具卡";
+                case 20435:
+                    return "普通家庭超火";
                 case 20436:
                     return "精神";
+                case 20437:
+                    return "珍爱提莫";
+                case 20438:
+                    return "汪汪超火";
                 case 20439:
                     return "战马能量神装";
                 case 20440:
@@ -2436,16 +3140,36 @@ namespace Douyu.ID
                     return "必中";
                 case 20449:
                     return "蛮好听的";
+                case 20450:
+                    return "夏日狂欢";
+                case 20451:
+                    return "懵小七超火";
                 case 20452:
                     return "狂欢超火";
                 case 20453:
                     return "狂欢飞机";
+                case 20454:
+                    return "偶尔合群超火";
                 case 20455:
                     return "茄子";
                 case 20456:
                     return "引领新时代";
+                case 20457:
+                    return "竞技战魂";
                 case 20458:
                     return "弯阵雨";
+                case 20459:
+                    return "2777up";
+                case 20460:
+                    return "固体狂欢";
+                case 20461:
+                    return "车队加油卡";
+                case 20462:
+                    return "高速自行车";
+                case 20463:
+                    return "霸气越野车";
+                case 20464:
+                    return "豪华超跑";
                 case 20465:
                     return "A飞机";
                 case 20466:
@@ -2490,18 +3214,28 @@ namespace Douyu.ID
                     return "CW胜利";
                 case 20500:
                     return "脉动";
+                case 20501:
+                    return "权力的游戏";
                 case 20502:
                     return "斗鱼手雷";
+                case 20503:
+                    return "穷苦人家";
                 case 20504:
                     return "为爱摇头";
                 case 20505:
                     return "鹌鹑蛋";
+                case 20506:
+                    return "520小食";
                 case 20507:
                     return "哼！离婚！";
                 case 20508:
                     return "让她吃";
                 case 20509:
                     return "一颗大白菜";
+                case 20510:
+                    return "宝儿冲冲冲";
+                case 20511:
+                    return "穷苦人家";
                 case 20512:
                     return "筋斗云";
                 case 20513:
@@ -2516,9 +3250,13 @@ namespace Douyu.ID
                     return "77wink";
                 case 20518:
                     return "R！P！G！";
+                case 20520:
+                    return "超丸星际舰";
                 case 20521:
                     return "过来恰柠檬";
                 case 20522:
+                    return "飞机";
+                case 20523:
                     return "飞机";
                 case 20524:
                     return "小紫本";
@@ -2530,6 +3268,8 @@ namespace Douyu.ID
                     return "斗鱼超级火箭";
                 case 20528:
                     return "火箭";
+                case 20530:
+                    return "光耀万物";
                 case 20531:
                     return "居居UPUP";
                 case 20532:
@@ -2542,8 +3282,12 @@ namespace Douyu.ID
                     return "携程TP";
                 case 20536:
                     return "VIP";
+                case 20538:
+                    return "菲云之下";
                 case 20539:
                     return "快乐肥宅水";
+                case 20540:
+                    return "林夕一梦";
                 case 20541:
                     return "大气";
                 case 20542:
@@ -2552,6 +3296,8 @@ namespace Douyu.ID
                     return "办卡";
                 case 20544:
                     return "梦想小鲨鱼";
+                case 20545:
+                    return "寂寞灵魂";
                 case 20546:
                     return "小星星";
                 case 20547:
@@ -2584,14 +3330,28 @@ namespace Douyu.ID
                     return "666";
                 case 20569:
                     return "bia";
+                case 20570:
+                    return "南妹的梦";
+                case 20571:
+                    return "豹豹渣渣皮";
                 case 20572:
                     return "100鱼丸";
+                case 20573:
+                    return "佳玲小可爱";
+                case 20574:
+                    return "小包专属";
                 case 20576:
                     return "雪菜下饭";
+                case 20577:
+                    return "盛典星光";
+                case 20579:
+                    return "日耀麒麟";
                 case 20580:
                     return "赏金飞机";
                 case 20582:
                     return "牛啤";
+                case 20583:
+                    return "一只潼喵喵";
                 case 20585:
                     return "陈氏理财金卡";
                 case 20586:
@@ -2604,22 +3364,66 @@ namespace Douyu.ID
                     return "弱鸡";
                 case 20591:
                     return "火箭";
+                case 20592:
+                    return "张新发槟榔";
                 case 20593:
                     return "小财神";
                 case 20595:
                     return "奥力给";
+                case 20596:
+                    return "小星星";
+                case 20597:
+                    return "星球";
+                case 20598:
+                    return "星空卡";
+                case 20599:
+                    return "星空飞机";
+                case 20600:
+                    return "星空火箭";
+                case 20601:
+                    return "星空超火";
                 case 20602:
                     return "小魔女";
                 case 20606:
                     return "越团外卖";
+                case 20607:
+                    return "宇宙飞船";
                 case 20608:
                     return "雀巢脆脆鲨";
                 case 20609:
                     return "京东秒杀";
                 case 20610:
                     return "阿狸";
+                case 20611:
+                    return "浪漫花束";
+                case 20612:
+                    return "水晶项链";
+                case 20613:
+                    return "永恒钻戒";
+                case 20614:
+                    return "踏青卡丁车";
+                case 20615:
+                    return "花海摩天轮";
+                case 20616:
+                    return "春意丘比特";
+                case 20617:
+                    return "春之旅行";
+                case 20618:
+                    return "魔法指环";
+                case 20619:
+                    return "魔法书";
+                case 20620:
+                    return "魔法皇冠";
+                case 20621:
+                    return "魔法之翼";
+                case 20622:
+                    return "弃用魔法棒";
+                case 20623:
+                    return "魔幻乐园";
                 case 20624:
                     return "魔法球";
+                case 20625:
+                    return "魔法棒";
                 case 20626:
                     return "幸福券";
                 case 20627:
@@ -2642,12 +3446,26 @@ namespace Douyu.ID
                     return "WE加油";
                 case 20636:
                     return "E星加油";
+                case 20638:
+                    return "超级火箭";
+                case 20639:
+                    return "火箭";
+                case 20640:
+                    return "办卡";
                 case 20642:
                     return "能量电池";
                 case 20643:
                     return "能量水晶";
                 case 20644:
                     return "能量戒指";
+                case 20645:
+                    return "福星办卡";
+                case 20646:
+                    return "福星飞机";
+                case 20647:
+                    return "鱼跃龙门";
+                case 20649:
+                    return "枸杞槟榔";
                 case 20650:
                     return "斗鱼竞技战魂";
                 case 20651:
@@ -2670,6 +3488,14 @@ namespace Douyu.ID
                     return "WE加油";
                 case 20660:
                     return "屠龙超火";
+                case 20661:
+                    return "大气";
+                case 20662:
+                    return "赞";
+                case 20663:
+                    return "弱鸡";
+                case 20664:
+                    return "666";
                 case 20665:
                     return "少林入世";
                 case 20666:
@@ -2684,10 +3510,14 @@ namespace Douyu.ID
                     return "呆瓜小火箭";
                 case 20671:
                     return "卫冕超火";
+                case 20672:
+                    return "年夜会门票";
                 case 20673:
                     return "年夜会门票";
                 case 20674:
                     return "好运来";
+                case 20675:
+                    return "6周年心愿";
                 case 20695:
                     return "充电卡";
                 case 20696:
@@ -2710,6 +3540,8 @@ namespace Douyu.ID
                     return "赞";
                 case 20709:
                     return "壁咚";
+                case 20710:
+                    return "金鲨鱼";
                 case 20711:
                     return "？？？";
                 case 20712:
@@ -2722,6 +3554,8 @@ namespace Douyu.ID
                     return "火线之光";
                 case 20716:
                     return "萌新飞机";
+                case 20717:
+                    return "财神爷";
                 case 20718:
                     return "发发发";
                 case 20719:
@@ -2780,14 +3614,36 @@ namespace Douyu.ID
                     return "比基尼";
                 case 20750:
                     return "日哥，算了";
+                case 20751:
+                    return "MOJITO";
+                case 20752:
+                    return "丘比特之箭";
+                case 20753:
+                    return "彩虹摩天轮";
+                case 20754:
+                    return "沙滩卡丁车";
+                case 20755:
+                    return "夏日火箭";
+                case 20756:
+                    return "星空飞机春";
                 case 20758:
                     return "打弱鸡";
+                case 20759:
+                    return "集结号角";
                 case 20760:
                     return "风暴超火";
                 case 20761:
                     return "风暴火箭";
                 case 20762:
                     return "康师傅能量站";
+                case 20763:
+                    return "10分";
+                case 20764:
+                    return "100分";
+                case 20765:
+                    return "小团结";
+                case 20766:
+                    return "大团结";
                 case 20768:
                     return "成都AG加油";
                 case 20769:
@@ -2898,8 +3754,12 @@ namespace Douyu.ID
                     return "大气";
                 case 20826:
                     return "怦然心动";
+                case 20829:
+                    return "白羊守护";
                 case 20831:
                     return "神话降临";
+                case 20832:
+                    return "奥利给";
                 case 20833:
                     return "千人千面1";
                 case 20836:
@@ -2912,8 +3772,46 @@ namespace Douyu.ID
                     return "Cute卡";
                 case 20840:
                     return "甜心卡";
+                case 20841:
+                    return "星际飞车";
+                case 20842:
+                    return "时空战机";
+                case 20843:
+                    return "雷霆火箭";
+                case 20844:
+                    return "雷霆超火";
+                case 20845:
+                    return "风暴战舰";
                 case 20846:
                     return "布偶猫";
+                case 20847:
+                    return "告白气球";
+                case 20848:
+                    return "怦然心动";
+                case 20849:
+                    return "流星雨";
+                case 20850:
+                    return "千纸鹤";
+                case 20851:
+                    return "蝴蝶";
+                case 20852:
+                    return "爱意信封";
+                case 20853:
+                    return "浪漫烟花";
+                case 20854:
+                    return "香吻";
+                case 20855:
+                    return "炸弹";
+                case 20856:
+                    return "幸运币";
+                case 20857:
+                    return "小魔女";
+                case 20858:
+                    return "阿狸";
+                case 20859:
+                    return "板砖";
+                case 20860:
+                    return "钻石";
                 case 20861:
                     return "吉列剃须刀";
                 case 20867:
@@ -2932,10 +3830,26 @@ namespace Douyu.ID
                     return "阿拉灯神钉";
                 case 20874:
                     return "康宝宝火箭";
+                case 20875:
+                    return "康宝宝火箭";
+                case 20876:
+                    return "金牛星座守护";
                 case 20877:
                     return "金牛天使";
                 case 20878:
                     return "金牛宝宝";
+                case 20879:
+                    return "爱心";
+                case 20880:
+                    return "告白书";
+                case 20881:
+                    return "告白卡";
+                case 20882:
+                    return "告白飞机";
+                case 20883:
+                    return "告白火箭";
+                case 20884:
+                    return "告白超火";
                 case 20885:
                     return "告白书";
                 case 20886:
@@ -2958,6 +3872,8 @@ namespace Douyu.ID
                     return "告白超火";
                 case 20895:
                     return "许愿喷泉";
+                case 20896:
+                    return "小叉车";
                 case 20897:
                     return "一只布偶猫";
                 case 20898:
@@ -2966,6 +3882,18 @@ namespace Douyu.ID
                     return "荒野乱斗";
                 case 20900:
                     return "小厨娘";
+                case 20901:
+                    return "可乐鸡翅";
+                case 20902:
+                    return "鱼丸粗面";
+                case 20903:
+                    return "麻辣烫";
+                case 20904:
+                    return "爱心寿司";
+                case 20905:
+                    return "海鲜大餐";
+                case 20906:
+                    return "满汉全席";
                 case 20908:
                     return "怦然心动";
                 case 20909:
@@ -2974,8 +3902,14 @@ namespace Douyu.ID
                     return "许愿喷泉";
                 case 20911:
                     return "卫星";
+                case 20912:
+                    return "小血瓶";
+                case 20913:
+                    return "大血瓶";
                 case 20914:
                     return "开黑券";
+                case 20915:
+                    return "欧力给";
                 case 20916:
                     return "一颗榴莲";
                 case 20917:
@@ -2986,14 +3920,38 @@ namespace Douyu.ID
                     return "双子宝宝";
                 case 20920:
                     return "双子天使";
+                case 20921:
+                    return "双子星座守护";
                 case 20922:
                     return "荒野能量饮料";
+                case 20923:
+                    return "糖果";
+                case 20924:
+                    return "漂流瓶";
+                case 20925:
+                    return "旋转木马";
+                case 20926:
+                    return "一只布偶猫";
                 case 20927:
                     return "绿豆荚";
                 case 20928:
                     return "黄豆荚";
                 case 20929:
                     return "红豆荚";
+                case 20930:
+                    return "恢复药水";
+                case 20931:
+                    return "战地越野车";
+                case 20932:
+                    return "爆裂飞机";
+                case 20933:
+                    return "有牌面";
+                case 20934:
+                    return "机械火箭";
+                case 20935:
+                    return "欧皇的祝福";
+                case 20936:
+                    return "一起开黑";
                 case 20937:
                     return "少女心愿";
                 case 20938:
@@ -3006,6 +3964,20 @@ namespace Douyu.ID
                     return "狂欢火箭";
                 case 20942:
                     return "公主梦";
+                case 20943:
+                    return "小黄鸡";
+                case 20944:
+                    return "必胜";
+                case 20945:
+                    return "打call";
+                case 20946:
+                    return "动次打次";
+                case 20947:
+                    return "音速飞机";
+                case 20948:
+                    return "旋风火箭";
+                case 20949:
+                    return "旋风超火";
                 case 20950:
                     return "战斗鸡";
                 case 20951:
@@ -3013,6 +3985,18 @@ namespace Douyu.ID
                 case 20952:
                     return "狂欢飞机";
                 case 20953:
+                    return "狂欢超火";
+                case 20954:
+                    return "狂欢集结";
+                case 20955:
+                    return "狂欢趴";
+                case 20956:
+                    return "狂欢卡";
+                case 20957:
+                    return "狂欢飞机";
+                case 20958:
+                    return "狂欢火箭";
+                case 20959:
                     return "狂欢超火";
                 case 20960:
                     return "狂欢趴";
@@ -3026,6 +4010,8 @@ namespace Douyu.ID
                     return "狂欢超火";
                 case 20965:
                     return "打call";
+                case 20966:
+                    return "珍珠";
                 case 20967:
                     return "成都AG必胜";
                 case 20968:
@@ -3052,6 +4038,18 @@ namespace Douyu.ID
                     return "GOG加油";
                 case 20979:
                     return "MTG加油";
+                case 20980:
+                    return "金币";
+                case 20981:
+                    return "印钞鸡";
+                case 20982:
+                    return "星愿魔棒";
+                case 20983:
+                    return "星愿飞机";
+                case 20984:
+                    return "星愿火箭";
+                case 20985:
+                    return "星愿超火";
                 case 20986:
                     return "CW加油";
                 case 20987:
@@ -3070,6 +4068,14 @@ namespace Douyu.ID
                     return "ESG胜利";
                 case 20994:
                     return "公主梦";
+                case 20995:
+                    return "逐浪丘比特";
+                case 20996:
+                    return "阳光飞机";
+                case 20999:
+                    return "巨蟹星座守护";
+                case 21001:
+                    return "WOW桶";
                 case 21002:
                     return "不忘初心";
                 case 21003:
@@ -3098,6 +4104,8 @@ namespace Douyu.ID
                     return "大魔王";
                 case 21016:
                     return "决斗场见！";
+                case 21017:
+                    return "决斗场见！";
                 case 21018:
                     return "欢乐火箭";
                 case 21019:
@@ -3112,14 +4120,42 @@ namespace Douyu.ID
                     return "狮子宝宝";
                 case 21024:
                     return "狮子天使";
+                case 21025:
+                    return "狮子星座守护";
+                case 21026:
+                    return "小幸运";
                 case 21027:
                     return "小小灵狐";
                 case 21028:
                     return "酷睿强芯";
+                case 21029:
+                    return "鹊桥相会";
+                case 21030:
+                    return "秋之旅行";
+                case 21031:
+                    return "思念丘比特";
+                case 21032:
+                    return "秋日火箭";
+                case 21033:
+                    return "枫叶摩天轮";
+                case 21034:
+                    return "麦浪飞机";
+                case 21035:
+                    return "田野卡丁车";
                 case 21039:
                     return "DYG加油";
                 case 21040:
                     return "大鱼缸";
+                case 21041:
+                    return "相会超火";
+                case 21042:
+                    return "相会火箭";
+                case 21043:
+                    return "相会飞机";
+                case 21044:
+                    return "相会卡";
+                case 21045:
+                    return "许愿灯";
                 case 21046:
                     return "相会超火";
                 case 21047:
@@ -3144,14 +4180,20 @@ namespace Douyu.ID
                     return "邀请函";
                 case 21058:
                     return "乐赞";
+                case 21060:
+                    return "女神星座守护";
                 case 21061:
                     return "女神天使";
                 case 21062:
                     return "女神宝宝";
+                case 21063:
+                    return "女神星座守护";
                 case 21064:
                     return "pick一下";
                 case 21065:
                     return "阿狸";
+                case 21066:
+                    return "狂欢飞机";
                 case 21068:
                     return "Hero加油";
                 case 21069:
@@ -3162,8 +4204,36 @@ namespace Douyu.ID
                     return "TTG加油";
                 case 21072:
                     return "YTG加油";
+                case 21073:
+                    return "破军之剑";
+                case 21074:
+                    return "精灵赛丽亚";
+                case 21075:
+                    return "三级头盔";
+                case 21076:
+                    return "疾行之靴";
+                case 21077:
+                    return "七彩祥云柱";
+                case 21078:
+                    return "平底锅";
                 case 21079:
                     return "电音小子";
+                case 21080:
+                    return "电音小子";
+                case 21081:
+                    return "鸿运当头";
+                case 21082:
+                    return "鸿运当头";
+                case 21084:
+                    return "盛典办卡";
+                case 21085:
+                    return "盛典飞机";
+                case 21086:
+                    return "盛典火箭";
+                case 21087:
+                    return "盛典超火";
+                case 21089:
+                    return "盛典星光";
                 case 21090:
                     return "盛典办卡V1";
                 case 21091:
@@ -3216,6 +4286,10 @@ namespace Douyu.ID
                     return "盛典火箭V2";
                 case 21118:
                     return "盛典超火V2";
+                case 21119:
+                    return "游乐券";
+                case 21120:
+                    return "天秤星座守护";
                 case 21121:
                     return "万国兵法";
                 case 21122:
@@ -3224,6 +4298,16 @@ namespace Douyu.ID
                     return "天秤宝宝";
                 case 21124:
                     return "LGD加油";
+                case 21125:
+                    return "弹匣";
+                case 21126:
+                    return "月兔飞机";
+                case 21127:
+                    return "花灯摩天轮";
+                case 21128:
+                    return "奔月火箭";
+                case 21129:
+                    return "千里共婵娟";
                 case 21132:
                     return "SN加油";
                 case 21133:
@@ -3232,8 +4316,26 @@ namespace Douyu.ID
                     return "金屋藏娇";
                 case 21135:
                     return "电音小子";
+                case 21136:
+                    return "稳";
+                case 21137:
+                    return "棒棒哒";
                 case 21138:
                     return "盛典千灯礼";
+                case 21139:
+                    return "盛典千灯礼";
+                case 21141:
+                    return "浪漫钢琴曲";
+                case 21142:
+                    return "小提琴之歌";
+                case 21143:
+                    return "摇滚吉他谱";
+                case 21144:
+                    return "优雅竖笛乐";
+                case 21145:
+                    return "欢快口琴奏";
+                case 21146:
+                    return "小小沙锤律";
                 case 21148:
                     return "音乐家";
                 case 21149:
@@ -3260,6 +4362,24 @@ namespace Douyu.ID
                     return "南瓜卡";
                 case 21160:
                     return "小幽灵";
+                case 21161:
+                    return "骑士超火";
+                case 21162:
+                    return "糖果火箭";
+                case 21163:
+                    return "女巫飞机";
+                case 21164:
+                    return "南瓜卡";
+                case 21165:
+                    return "小幽灵";
+                case 21166:
+                    return "音乐家火箭";
+                case 21167:
+                    return "星星";
+                case 21168:
+                    return "星空棒棒糖";
+                case 21169:
+                    return "太空旅行卡";
                 case 21170:
                     return "变声领结";
                 case 21171:
@@ -3284,14 +4404,42 @@ namespace Douyu.ID
                     return "往里弄";
                 case 21181:
                     return "变声领结";
+                case 21182:
+                    return "激光眼镜";
+                case 21183:
+                    return "勇士披风";
+                case 21184:
+                    return "荣耀王冠";
+                case 21185:
+                    return "战神铠甲";
+                case 21186:
+                    return "冰雪魔杖";
+                case 21187:
+                    return "雷神之锤";
+                case 21188:
+                    return "王者之剑";
                 case 21189:
                     return "天蝎宝宝";
                 case 21190:
                     return "天蝎天使";
+                case 21191:
+                    return "天蝎星座守护";
                 case 21192:
                     return "原谅帽";
                 case 21193:
                     return "电闪雷鸣";
+                case 21194:
+                    return "冬日恋歌";
+                case 21195:
+                    return "雪人丘比特";
+                case 21196:
+                    return "飘雪火箭";
+                case 21197:
+                    return "冰雪摩天轮";
+                case 21198:
+                    return "雪人飞机";
+                case 21199:
+                    return "冬季卡丁车";
                 case 21200:
                     return "香辣火箭";
                 case 21201:
@@ -3318,6 +4466,12 @@ namespace Douyu.ID
                     return "射手宝宝";
                 case 21216:
                     return "射手天使";
+                case 21217:
+                    return "射手星座守护";
+                case 21218:
+                    return "福运红包";
+                case 21219:
+                    return "圣诞袜";
                 case 21220:
                     return "圣诞铃铛";
                 case 21221:
@@ -3338,6 +4492,162 @@ namespace Douyu.ID
                     return "圣诞火箭";
                 case 21229:
                     return "圣诞超火";
+                case 21230:
+                    return "圣诞铃铛";
+                case 21231:
+                    return "圣诞卡";
+                case 21232:
+                    return "圣诞飞机";
+                case 21233:
+                    return "圣诞火箭";
+                case 21234:
+                    return "圣诞超火";
+                case 21238:
+                    return "凛冬晚会";
+                case 21240:
+                    return "皇家海盗船";
+                case 21242:
+                    return "泡泡枪";
+                case 21243:
+                    return "水逆退散";
+                case 21244:
+                    return "天鹅梦";
+                case 21245:
+                    return "小丑鱼撩你";
+                case 21246:
+                    return "寻梦女孩";
+                case 21292:
+                    return "摩羯星座守护";
+                case 21294:
+                    return "海神降临";
+                case 21295:
+                    return "天鹅梦";
+                case 21296:
+                    return "皇家海盗船";
+                case 21297:
+                    return "海底宫殿";
+                case 21298:
+                    return "海螺";
+                case 21299:
+                    return "皂滑弄人";
+                case 21300:
+                    return "锦鲤";
+                case 21301:
+                    return "星光水母";
+                case 21302:
+                    return "泡泡枪";
+                case 21303:
+                    return "撩你";
+                case 21304:
+                    return "水逆退散";
+                case 21305:
+                    return "热舞萝莉";
+                case 21306:
+                    return "北冥有鱼";
+                case 21307:
+                    return "游艇";
+                case 21308:
+                    return "银河战舰";
+                case 21309:
+                    return "合金超火";
+                case 21310:
+                    return "量子火箭";
+                case 21311:
+                    return "幻影飞机";
+                case 21312:
+                    return "光速飞车";
+                case 21313:
+                    return "星星";
+                case 21314:
+                    return "骇客卡";
+                case 21315:
+                    return "星球";
+                case 21316:
+                    return "黑卡";
+                case 21318:
+                    return "棒棒糖";
+                case 21319:
+                    return "甜蜜果汁";
+                case 21320:
+                    return "捕梦网";
+                case 21321:
+                    return "比翼双飞";
+                case 21324:
+                    return "音符";
+                case 21325:
+                    return "口哨";
+                case 21326:
+                    return "音乐卡";
+                case 21327:
+                    return "音乐车";
+                case 21328:
+                    return "平安健康";
+                case 21329:
+                    return "好运连连";
+                case 21330:
+                    return "六六大顺";
+                case 21331:
+                    return "恭喜发财";
+                case 21332:
+                    return "十全十美";
+                case 21333:
+                    return "牛年大发";
+                case 21339:
+                    return "告白卡";
+                case 21340:
+                    return "炮竹";
+                case 21341:
+                    return "迎新春";
+                case 21346:
+                    return "浪漫小火车";
+                case 21347:
+                    return "独角兽";
+                case 21348:
+                    return "糖果机";
+                case 21349:
+                    return "万能胶囊";
+                case 21350:
+                    return "香吻";
+                case 21351:
+                    return "告白情话";
+                case 21352:
+                    return "三生石";
+                case 21353:
+                    return "梦幻城堡";
+                case 21354:
+                    return "跑车";
+                case 21355:
+                    return "巧克力";
+                case 21356:
+                    return "多喝热水";
+                case 21357:
+                    return "贝壳";
+                case 21358:
+                    return "爱的旅行";
+                case 21359:
+                    return "好人卡";
+                case 21360:
+                    return "芭比粉";
+                case 21361:
+                    return "丘比特守护";
+                case 21367:
+                    return "舞狮火箭";
+                case 21368:
+                    return "财神驾到";
+                case 21379:
+                    return "粉水晶";
+                case 21381:
+                    return "福娃丘比特";
+                case 21382:
+                    return "团圆火箭";
+                case 21383:
+                    return "新春摩天轮";
+                case 21384:
+                    return "五福飞机";
+                case 21385:
+                    return "迎新卡丁车";
+                case 21386:
+                    return "金牛贺岁";
                 default:
                     return "";
             }
